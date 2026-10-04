@@ -1,0 +1,6 @@
+numpy>=2.0
+matplotlib>=3.8
+Pillow>=10.0
+# Usado só para conferir a nossa conversão RGB -> HSV (não faz parte da implementação)
+opencv-python>=4.8
+notebook>=7.0
