@@ -28,8 +28,10 @@ mesma tentativa de isolamento diretamente em RGB, para mostrar por que o HSV
 
 - [x] Entrega 1: definição da opção e do tema ([PDF](entrega1/entrega1.pdf))
 - [x] Estrutura do repositório e do notebook
-- [ ] Teoria e prática do modelo RGB
-- [ ] Conversão RGB → HSV implementada e validada
+- [x] Motivação com imagem sintética de teste (com gabarito)
+- [x] Teoria e prática do modelo RGB
+- [x] Conversão RGB → HSV implementada e validada (contra `colorsys` e
+      OpenCV, em cerca de 250 mil cores)
 - [ ] Segmentação por faixa de matiz
 - [ ] Comparação RGB × HSV
 - [ ] Limitações, conclusão e referências
