@@ -34,7 +34,8 @@ mesma tentativa de isolamento diretamente em RGB, para mostrar por que o HSV
       OpenCV, em cerca de 250 mil cores)
 - [x] Segmentação por faixa de matiz (imagem sintética e duas fotos)
 - [x] Comparação RGB × HSV (imagem sintética, duas fotos e experimento de iluminação)
-- [ ] Limitações, conclusão e referências
+- [x] Limitações, conclusão, declaração de uso de IA e referências
+- [ ] Revisão e reescrita dos textos pelo grupo
 - [ ] Vídeo-pitch (até 5 min)
 
 Documentos:
@@ -42,6 +43,21 @@ Documentos:
 - [Entrega 1 (definição do tema)](entrega1/entrega1.pdf)
 - [Tutorial (notebook)](tutorial_segmentacao_cor.ipynb)
 - [Imagens de teste e fontes](imagens/README.md)
+
+## Principais resultados
+
+| Teste | RGB (caixa de limiares) | HSV (faixa de matiz) |
+|---|---|---|
+| Imagem sintética, parte na sombra encontrada | 0% | 99% a 100% |
+| Parede amarela, parte na sombra encontrada | 0% | 100% |
+| Foto com metade da luz (IoU com a máscara original) | 0 (máscara vazia) | 0,997 |
+
+## Uso de IA
+
+Usamos o Claude (Anthropic), pelo Claude Code, para implementar o código do
+notebook e rascunhar os textos, que foram revisados e reescritos pelo grupo.
+Usamos o Gemini (Google) só para pesquisar fotos com licença livre. Os detalhes
+e a forma de verificação estão na seção 9 do notebook.
 
 ## Como executar
 
