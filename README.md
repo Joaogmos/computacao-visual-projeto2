@@ -32,7 +32,7 @@ mesma tentativa de isolamento diretamente em RGB, para mostrar por que o HSV
 - [x] Teoria e prática do modelo RGB
 - [x] Conversão RGB → HSV implementada e validada (contra `colorsys` e
       OpenCV, em cerca de 250 mil cores)
-- [ ] Segmentação por faixa de matiz
+- [x] Segmentação por faixa de matiz (imagem sintética e duas fotos)
 - [ ] Comparação RGB × HSV
 - [ ] Limitações, conclusão e referências
 - [ ] Vídeo-pitch (até 5 min)
@@ -41,6 +41,7 @@ Documentos:
 
 - [Entrega 1 (definição do tema)](entrega1/entrega1.pdf)
 - [Tutorial (notebook)](tutorial_segmentacao_cor.ipynb)
+- [Imagens de teste e fontes](imagens/README.md)
 
 ## Como executar
 
