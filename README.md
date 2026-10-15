@@ -33,7 +33,7 @@ mesma tentativa de isolamento diretamente em RGB, para mostrar por que o HSV
 - [x] Conversão RGB → HSV implementada e validada (contra `colorsys` e
       OpenCV, em cerca de 250 mil cores)
 - [x] Segmentação por faixa de matiz (imagem sintética e duas fotos)
-- [ ] Comparação RGB × HSV
+- [x] Comparação RGB × HSV (imagem sintética, duas fotos e experimento de iluminação)
 - [ ] Limitações, conclusão e referências
 - [ ] Vídeo-pitch (até 5 min)
 
