@@ -51,6 +51,7 @@ Documentos:
 | Imagem sintética, parte na sombra encontrada | 0% | 99% a 100% |
 | Parede amarela, parte na sombra encontrada | 0% | 100% |
 | Foto com metade da luz (IoU com a máscara original) | 0 (máscara vazia) | 0,997 |
+| Parede vermelha: parede / chão marcados | 99,8% / 99,9% (pega o chão junto) | 97,5% / 1,3% |
 
 ## Uso de IA
 
