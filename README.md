@@ -35,7 +35,8 @@ mesma tentativa de isolamento diretamente em RGB, para mostrar por que o HSV
 - [x] Segmentação por faixa de matiz (imagem sintética e duas fotos)
 - [x] Comparação RGB × HSV (imagem sintética, duas fotos e experimento de iluminação)
 - [x] Limitações, conclusão, declaração de uso de IA e referências
-- [ ] Revisão e reescrita dos textos pelo grupo
+- [x] Reescrita dos textos do notebook
+- [ ] Revisão final dos textos pelo grupo
 - [ ] Vídeo-pitch (até 5 min)
 
 Documentos:
@@ -55,8 +56,9 @@ Documentos:
 
 ## Uso de IA
 
-Usamos o Claude (Anthropic), pelo Claude Code, para implementar o código do
-notebook e rascunhar os textos, que foram revisados e reescritos pelo grupo.
+O código do notebook foi implementado com o auxílio do Claude (Anthropic),
+pelo Claude Code. Os textos também foram redigidos com o auxílio do Claude, a
+partir desse código e dos resultados, e revisados pelo grupo.
 Usamos o Gemini (Google) só para pesquisar fotos com licença livre. Os detalhes
 e a forma de verificação estão na seção 9 do notebook.
 
