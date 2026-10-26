@@ -24,7 +24,7 @@ RGB, para comparar como cada modelo se comporta quando a iluminação muda.
 
 ## Estado da entrega
 
-Entrega 2 concluída em 20/10/2026.
+Entrega 2 concluída em 26/10/2026.
 
 - [x] Entrega 1: definição da opção e do tema ([PDF](entrega1/entrega1.pdf))
 - [x] Estrutura do repositório e do notebook
@@ -36,14 +36,13 @@ Entrega 2 concluída em 20/10/2026.
 - [x] Comparação RGB × HSV (imagem sintética, duas fotos e experimento de
       iluminação)
 - [x] Limitações, conclusão, e referências
-- [x] Reescrita dos textos do notebook
 - [x] Revisão final dos textos pelo grupo
-- [x] Vídeo-pitch ([YouTube](https://www.youtube.com/watch?v=3PfPy9WShUE))
+- [x] Vídeo-pitch ([YouTube](https://www.youtube.com/watch?v=-Mh22rIXmVA))
 
 Arquivos:
 
 - [Tutorial (notebook)](tutorial_segmentacao_cor.ipynb)
-- [Vídeo-pitch (YouTube)](https://www.youtube.com/watch?v=3PfPy9WShUE)
+- [Vídeo-pitch (YouTube)](https://www.youtube.com/watch?v=-Mh22rIXmVA)
 - [Entrega 1 (definição do tema)](entrega1/entrega1.pdf)
 - [Imagens de teste e fontes](imagens/README.md)
 
